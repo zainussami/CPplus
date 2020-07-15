@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zainansari/Google Drive/MScFE/CPplus/SockMerchant/main.cpp
+vector
+-
+iostream
+-
+unordered_map
+-
+fstream
+-
+
