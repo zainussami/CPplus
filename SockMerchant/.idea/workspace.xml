@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b26ba42-4e46-4fb7-9549-7c0fd8b57334" name="Default Changelist" comment="" />
+    <list default="true" id="0b26ba42-4e46-4fb7-9549-7c0fd8b57334" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SockMerchant.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SockMerchant" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594779428760</updated>
-      <workItem from="1594779430495" duration="538000" />
+      <workItem from="1594779430495" duration="860000" />
     </task>
     <servers />
   </component>
