@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zainansari/Google Drive/MScFE/CPplus/ContainerPerformance/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+ctime
+-
+
