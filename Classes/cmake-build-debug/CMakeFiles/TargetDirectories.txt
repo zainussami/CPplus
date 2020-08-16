@@ -1,0 +1,3 @@
+/Users/zainansari/Google Drive/MScFE/CPplus/Classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zainansari/Google Drive/MScFE/CPplus/Classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zainansari/Google Drive/MScFE/CPplus/Classes/cmake-build-debug/CMakeFiles/Classes.dir
