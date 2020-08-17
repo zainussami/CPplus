@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zainansari/Google Drive/MScFE/CPplus/LinearStructures/main.cpp
+iostream
+-
+stack
+-
+string
+-
+mach/port.h
+-
+queue
+-
+deque
+-
+
